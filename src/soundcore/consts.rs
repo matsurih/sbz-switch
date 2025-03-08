@@ -12,3 +12,7 @@ pub const PKEY_SOUNDCORECTL_CLSID_AE5: PROPERTYKEY = PROPERTYKEY {
     fmtid: GUID::from_u128(0xd8570091_af3f_4615_9faa_a24845d10936),
     pid: 0,
 };
+pub const PKEY_SOUNDCORECTL_CLSID_X5: PROPERTYKEY = PROPERTYKEY {
+    fmtid: GUID::from_u128(0xc166523c_fe0c_4a94_a586_f1a80cfbbf3e),
+    pid: 0,
+};
